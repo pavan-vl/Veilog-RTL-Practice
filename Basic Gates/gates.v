@@ -3,14 +3,14 @@ module gates(a,b,ya,yna,yo,yno,yx,yxn,ynota,ynotb);
 input a,b;
 output ya,yna,yo,yno,yx,yxn,ynota,ynotb;
 
-assign ya=a&b;
-assign yna=~ya;
-assign yo=a|b;
-assign yno=~yo;
-assign yx=a^b;
-assign yxn=~yx;
-assign ynota=~a;
-assign ynotb=~b;
+assign ya=a&b; //AND
+assign yna=~ya; //NAND
+assign yo=a|b; //OR
+assign yno=~yo; //NOR
+assign yx=a^b; //XOR
+assign yxn=~yx; //XNOR
+assign ynota=~a; //NOT of a
+assign ynotb=~b; //NOT of b
 
 
 endmodule
