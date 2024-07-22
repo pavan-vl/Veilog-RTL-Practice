@@ -4,7 +4,7 @@ reg a,b;
 
 wire ya,yna,yo,yno,yx,yxn,ynota,ynotb;
 
-gates g1(a,b,ya,yna,yo,yno,yx,yxn,ynota,ynotb);
+gates gates_inst(a,b,ya,yna,yo,yno,yx,yxn,ynota,ynotb);
 
 initial begin
 $monitor("a= %0b",a,"b= %0b",b,"ya= %0b",ya,"yna= %0b",yna,"yo= %0b",yo,"yno= %0b",yno,
