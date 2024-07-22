@@ -1,3 +1,4 @@
+// Designed by Pavan V L
 module gates(a,b,ya,yna,yo,yno,yx,yxn,ynota,ynotb);
 input a,b;
 output ya,yna,yo,yno,yx,yxn,ynota,ynotb;
