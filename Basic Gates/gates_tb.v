@@ -1,3 +1,4 @@
+// Designed by Pavan V L
 module gates_tb;
 reg a,b;
 
