@@ -8,3 +8,7 @@ Day 1 - 22/7/24: Basic Gates.
 Day 2 - 23/7/24: Half Adder.
 
 Day 3 - 24/7/24: Full Adder
+
+Day 4 - 25/7/24: Ripple Carry Adder
+
+Day 5 - 26/7/24: Subtractor
