@@ -2,6 +2,6 @@
 module hs(a,b,d,bo);
 input a,b;
 output d,bo;
-assign d=a^b;
-assign bo=(~a)&b;
+assign d=a^b; // Difference
+assign bo=(~a)&b; // Borrow
 endmodule
