@@ -16,3 +16,5 @@ Day 5 - 26/7/24: Subtractor (Contains both Half Subtractor and Full Subtractor).
 Day 6 - 27/7/24: 4-bit Adder and Subractor.
 
 Day 7 - 28/7/24: Multiplexers.
+
+Day 8 - 29/7/24: Demultiplexers.
