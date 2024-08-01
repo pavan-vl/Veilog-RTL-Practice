@@ -18,3 +18,9 @@ Day 6 - 27/7/24: 4-bit Adder and Subractor.
 Day 7 - 28/7/24: Multiplexers.
 
 Day 8 - 29/7/24: Demultiplexers.
+
+Day 9 - 30/7/24: Multiplier.
+
+Day 10 - 31/7/24: Encoders.
+
+Day 11: - 1/8/24: Decoders.
