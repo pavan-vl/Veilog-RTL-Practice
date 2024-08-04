@@ -31,8 +31,8 @@ Day 13 - 3/8/24: D FlipFlop.
 
 Day 14 - 4/8/24: T FLipFlop.
 
-Day 15 - 5/8/24: SR FlipFlop.
+Day 15 - 5/8/24: JK FlipFlop.
 
-Day 16 - 6/8/24: JK FlipFlop.
+Day 16 - 6/8/24: SR FlipFlop.
 
 
