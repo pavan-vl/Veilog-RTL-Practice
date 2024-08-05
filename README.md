@@ -27,9 +27,9 @@ Day 11 - 1/8/24: Decoders.
 
 Day 12 - 2/8/24: Priority Encoder.
 
-Day 13 - 3/8/24: D FlipFlop.
+Day 13 - 3/8/24: D FlipFlop. NEW: included d flipflop using jk flipflop as dff_jk files.
 
-Day 14 - 4/8/24: T FLipFlop.
+Day 14 - 4/8/24: T FLipFlop. NEW: included t flipflop using jk flipflop as tff_jk files
 
 Day 15 - 5/8/24: JK FlipFlop.
 
