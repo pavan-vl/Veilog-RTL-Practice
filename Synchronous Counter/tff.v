@@ -1,8 +1,11 @@
 //Designed by Pavan V L
-module tff_sync(t,clk,q,qb);
+//For Synccount
+module tff(t,clk,q,qb);
 input t,clk;
 output reg q;
 output qb;
+
+initial q=0;
 
 always @ (posedge clk) begin
 if(t)
