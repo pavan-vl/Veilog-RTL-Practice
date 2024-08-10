@@ -35,4 +35,12 @@ Day 15 - 5/8/24: JK FlipFlop.
 
 Day 16 - 6/8/24: SR FlipFlop.
 
+Day 17 - 7/8/24: Synchronous Counter.
+
+Day 18 - 8/8/24: Up Down Counter.
+
+Day 19 - 9/8/24: Shift Register.
+
+Day 20 - 10/8/24: Ring Counter.
+
 
