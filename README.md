@@ -43,4 +43,4 @@ Day 19 - 9/8/24: Shift Register.
 
 Day 20 - 10/8/24: Ring Counter.
 
-
+Day 21 - 11/8/24: Johnson Counter.
