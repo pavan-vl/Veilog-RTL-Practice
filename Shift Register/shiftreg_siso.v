@@ -1,13 +1,22 @@
 //Designed by Pavan V L
-module shiftreg_siso(d,clk,q);
-input d,clk;
-output q;
+module shiftreg_siso(d,rst,clk,q0,q1,q2,q3); 
+input d,rst,clk;
+output reg q0,q1,q2,q3;
 
-wire q0,q1,q2,qb0,qb1,qb2,qb;
+wire qb0,qb1,qb2,qb3;
 
-dff dff_inst1(d,clk,q0,qb0);
-dff dff_inst1(q0,clk,q1,qb1);
-dff dff_inst1(q1,clk,q2,qb2);
-dff dff_inst1(q2,clk,q,qb);
-
+always @ (posedge clk) begin
+if (rst) begin
+	q0=0;
+	q1=0;
+	q2=0;
+	q3=0;
+end
+else begin
+	q0<=d;
+	q1<=q0;
+	q2<=q1;
+	q3<=q2;
+end
+end
 endmodule
