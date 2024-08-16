@@ -1,8 +1,8 @@
 //Designed by Pavan V L
-module bcd_to_seg_disp(in0,in1,in2,in3,a,b,c,d,e,f,g,dp,out); 
+module bcd_to_seg_disp(in0,in1,in2,in3,a,b,c,d,e,f,g,dp); 
 input in0,in1,in2,in3;
 output a,b,c,d,e,f,g,dp;
-output reg [7:0]out;
+reg [7:0]out;
 
 // Common Cathode
 always @ (*) begin
@@ -22,6 +22,7 @@ endcase
 end
 
 // Common Anode
+
 /*
 always @ (*) begin
 case ({in3,in2,in1,in0})
@@ -39,6 +40,7 @@ case ({in3,in2,in1,in0})
 endcase
 end
 */
+
 
 assign a=out[7];
 assign b=out[6];
