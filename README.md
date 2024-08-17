@@ -44,3 +44,21 @@ Day 19 - 9/8/24: Shift Register.
 Day 20 - 10/8/24: Ring Counter.
 
 Day 21 - 11/8/24: Johnson Counter.
+
+Day 22 - 12/8/24: Binary to Gray Converter.
+
+Day 23 - 13/8/24: Gray to Binary Converter.
+
+Day 24 - 14/8/24: Arithmetical Logical Unit.
+
+Day 25 - 15/8/24: Barrel Shifter.
+
+Day 26 - 16/8/24: BCD to 7 Segment Display.
+
+Day 27 - 17/8/24: Frequency Divider.
+
+Day 28 - 18/8/24: .
+
+Day 29 - 19/8/24: .
+
+Day 23 - 20/8/24: .
