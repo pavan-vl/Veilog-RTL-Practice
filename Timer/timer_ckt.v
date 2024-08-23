@@ -1,24 +1,26 @@
 //Designed by Pavan V L
-module timer_ckt(time_dur,out_int,rst,clk);
-input clk,rst;
-input reg [3:0]time_dur;
-output reg out;
-reg [3:0]cnt;
+module timer_ckt(time_dur,out_int,clk,cnt,stop_sig);
+input clk,stop_sig;
+input [3:0]time_dur;
+output reg out_int;
+output reg [3:0]cnt;
 
-always @ (posedge clk or negedge rst) begin
-if(rst) begin
-cnt<=4'd0;
-out<=0;
+initial begin
+cnt=0;
+out_int=0;
+end
+
+always @ (posedge clk) begin
+if(stop_sig) begin
+out_int<=0;
+cnt<=0;
 end
 else begin
-	cnt<=time_dur;
-	if(cnt==4'd0) begin
-		out<=1;
-		cnt<=time_dur;
-	end
-	else if(cnt>4'd0) begin
-		cnt=cnt-4'd1;
-		out<=0;
-	end
+if(cnt!=4'd0)
+cnt<=cnt-4'd1;
+else
+cnt<=time_dur;
+out_int <= (cnt==4'd1);
+end	
 end
-endmodule	
+endmodule
