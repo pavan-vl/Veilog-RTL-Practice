@@ -1,6 +1,6 @@
 //Designed Pavan V L
 module digi_clock(clk,sec,min,hr);
-input clk;      
+input clk; //Designed for Clock signal of Period=10ms.      
 output reg [5:0] sec, min; 
 output reg [4:0] hr; 
 
@@ -16,7 +16,7 @@ end
 
 
 always @(posedge clk) begin
-if(cnt==7'd99) begin
+if(cnt==7'd99) begin // For 100Hz Clock frequency division.
 cnt<=7'd0;
 end
 else begin
