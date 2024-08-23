@@ -57,8 +57,16 @@ Day 26 - 16/8/24: BCD to 7 Segment Display.
 
 Day 27 - 17/8/24: Frequency Divider.
 
-Day 28 - 18/8/24: .
+Day 28 - 18/8/24: PWM Generator.
 
-Day 29 - 19/8/24: .
+Day 29 - 19/8/24: Signal Router.
 
-Day 23 - 20/8/24: .
+Day 30 - 20/8/24: Digital Clock.
+
+Day 31 - 21/8/24: Restoring Divider.
+
+Day 32 - 22/8/24: Edge Detectors.
+
+Day 33 - 23/8/24: Timer.
+
+Day 34 - 24/8/24: .
