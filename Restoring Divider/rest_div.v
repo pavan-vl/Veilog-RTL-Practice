@@ -1,42 +1,40 @@
-//Designed by Pavan V L
-module rest_div(dnd,dvr,clk,q,r);
-input signed [3:0]dnd,dvr;
-input clk;
-output reg signed [3:0]q,r;
-reg [3:0]a;    
-reg [3:0]m;   
-reg [2:0]cnt; 
+//Designed yy Pavan V L
+//Restoring Divder Algorithm
+module rest_div(x,y,q,r);
+input [3:0]x //Dividend
+,y; //Divisor
+output reg [3:0]q,r;
+reg [4:0]a;    
+reg [4:0]m;   
+integer i;
+reg [4:0]neg_m;
 
-initial begin
+always @(*) begin
+if (y!=4'd0) begin
+m[3:0]=y;
+m[4]=0;
 a=4'd0;
-r=4'd0;
-
-m=dvr;
-q=dnd;
-cnt=4'd4;
+q=x;
+for(i=0;i<4;i=i+1) begin
+	//Shift Left
+	a=a<<1;
+	a[0]=q[3];
+	q=q<<1;
+	neg_m=-m;
+	a=a+neg_m;
+	if(a[4]==1) begin
+		q[0]=0;
+		a=a+m; //Restore
+	end
+	else
+	q[0]=1;
 end
-
-always @(posedge clk) begin
-
-if (cnt>0) begin
-// Rotate left Shift
-a<= {a[2:0],q[3]};
-q<= {q[2:0],1'b0}; //Update q
-
-a<=a-m;
-
-if (a[3]==1) begin
-//restore
-a<=a+m;
-end 
+r=a[3:0];
 end
-
-else begin
-q[0]<=1;
-cnt<=cnt-1;
-if (cnt==1) 
-r<=a;
-
+else
+begin
+	q=4'bxxxx;
+	r=4'bxxxx;
 end
 end
 endmodule
