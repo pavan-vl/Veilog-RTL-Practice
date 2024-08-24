@@ -69,4 +69,6 @@ Day 32 - 22/8/24: Edge Detectors.
 
 Day 33 - 23/8/24: Timer.
 
-Day 34 - 24/8/24: .
+Day 34 - 24/8/24: Clock Gating.
+
+Day 35 - 25/8/24: Digital Comparator.
