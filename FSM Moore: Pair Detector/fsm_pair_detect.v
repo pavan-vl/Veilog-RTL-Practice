@@ -5,7 +5,7 @@ output reg det;
 
 reg [1:0]state;
 
-always (posedge clk) begin
+always @ (posedge clk) begin
 if(rst) begin
 state<=2'd0;
 det<=0;
@@ -41,7 +41,7 @@ begin
 end
 if(state==2'b11)
 det<=1;
-else
+else if(state!=2'b11)
 det<=0;
 end
-endmodule		
+endmodule	
