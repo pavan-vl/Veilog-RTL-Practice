@@ -81,4 +81,4 @@ Day 38 - 28/8/24: FSM Mealy: Sequence Detector.
 
 Day 39 - 29/8/24: FSM Mealy: Bit Inversion detector.
 
-Day 40 - 30/8/24: FSM Mealy: Binary Palindrome Detector.
+Day 40 - 30/8/24: FSM: Binary Palindrome Detector.
