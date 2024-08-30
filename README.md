@@ -72,3 +72,13 @@ Day 33 - 23/8/24: Timer.
 Day 34 - 24/8/24: Clock Gating.
 
 Day 35 - 25/8/24: Digital Comparator.
+
+Day 36 - 26/8/24: FSM Moore: Pair Detector.
+
+Day 37 - 27/8/24: FSM Mealy: Parity Checker.
+
+Day 38 - 28/8/24: FSM Mealy: Sequence Detector.
+
+Day 39 - 29/8/24: FSM Mealy: Bit Inversion detector.
+
+Day 40 - 30/8/24: FSM Mealy: Binary Palindrome Detector.
