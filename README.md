@@ -82,3 +82,15 @@ Day 38 - 28/8/24: FSM Mealy: Sequence Detector.
 Day 39 - 29/8/24: FSM Mealy: Bit Inversion detector.
 
 Day 40 - 30/8/24: FSM: Binary Palindrome Detector.
+
+Day 41 - 31/8/24: FSM: Sorted Pair Detector.
+
+Day 42 - 1/9/24: Single Port SRAM.
+
+Day 43 - 2/9/24: Dual Port SRAM.
+
+Day 44 - 3/9/24: First In First Out (FIFO).
+
+Day 45 - 4/9/24: Linear Feedback Shift Register (LFSR).
+
+Day 46 - 5/9/24: Pseudorandom sequence Generator (PRSG): Geffe Generator.
