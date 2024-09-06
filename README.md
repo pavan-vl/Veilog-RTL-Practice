@@ -1,7 +1,7 @@
 # Veilog-RTL-Practice
 To design RTL schematic and verify design for various digital circuits using Verilog for practice.
 
-Tool used: Xilinx Vivado 
+Tool used: Xilinx Vivado, Intel Quartus Prime Lite ( State diagrams and State Tables )
 
 Day 1 - 22/7/24: Basic Gates.
 
@@ -93,4 +93,6 @@ Day 44 - 3/9/24: First In First Out (FIFO).
 
 Day 45 - 4/9/24: Linear Feedback Shift Register (LFSR).
 
-Day 46 - 5/9/24: Pseudorandom sequence Generator (PRSG): Geffe Generator.
+Day 46 - 5/9/24: Pseudorandom Sequence Generator (PRSG): Geffe Generator.
+
+DAY 47 - 6/9/24: PRSG: Beth-Piper Stop-and-Go Generator.
