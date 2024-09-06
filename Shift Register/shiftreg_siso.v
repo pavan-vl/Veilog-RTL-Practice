@@ -19,4 +19,8 @@ else begin
 	q3<=q2;
 end
 end
+assign qb0=~q0;
+assign qb1=~q1;
+assign qb2=~q2;
+assign qb3=~q3;
 endmodule
