@@ -1,5 +1,5 @@
 //Designed by Pavan V L
-module bilat_sng(clk,rst,biout);
+module bilat_sng(clk,rst,biout); // Bilateral Stop-and-Go Generator
 input clk,rst;
 output biout;
 
