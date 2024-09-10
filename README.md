@@ -95,4 +95,16 @@ Day 45 - 4/9/24: Linear Feedback Shift Register (LFSR).
 
 Day 46 - 5/9/24: Pseudorandom Sequence Generator (PRSG): Geffe Generator.
 
-DAY 47 - 6/9/24: PRSG: Beth-Piper Stop-and-Go Generator.
+Day 47 - 6/9/24: PRSG: Beth-Piper Stop-and-Go Generator.
+
+Day 48 - 7/9/24: PRSG: Alternating Stop-and-Go Generator.
+
+Day 49 - 8/9/24: PRSG: Bilateral Stop-and-Go Generator.
+
+Day 50 - 9/9/24: PRSG: Multispeed Inner-Product Generator.
+
+Day 51 - 10/9/24: PRSG: Gollmann Cascade Generator.
+
+Day 52 - 11/9/24: PRSG:  Generator.
+
+Day 53 - 12/9/24: Universal Shift Register.
