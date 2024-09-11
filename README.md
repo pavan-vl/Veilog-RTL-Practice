@@ -105,6 +105,6 @@ Day 50 - 9/9/24: PRSG: Multispeed Inner-Product Generator.
 
 Day 51 - 10/9/24: PRSG: Gollmann Cascade Generator.
 
-Day 52 - 11/9/24: PRSG:  Generator.
+Day 52 - 11/9/24: PRSG: Self-Decimated Generator.
 
 Day 53 - 12/9/24: Universal Shift Register.
