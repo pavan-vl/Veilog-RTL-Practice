@@ -1,5 +1,5 @@
 //Designed by Pavan V L
-module watch_dog_timer(clk,rst,wdt_en,rst_o);
+module watch_dog_timer(clk,rst,wd_en,rst_o);
 input clk,rst,wd_en;
 output reg rst_o;
 
