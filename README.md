@@ -108,3 +108,9 @@ Day 51 - 10/9/24: PRSG: Gollmann Cascade Generator.
 Day 52 - 11/9/24: PRSG: Self-Decimated Generator.
 
 Day 53 - 12/9/24: Universal Shift Register.
+
+Day 54 - 13/9/24: Watch Dog Timer.
+
+Day 55 - 14/9/24: Ceasar Cipher.
+
+Day 56 - 15/9/24: Ceasar Cipher: Random Key.
