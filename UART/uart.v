@@ -1,4 +1,4 @@
-module top(clk,start,rx,txin,tx,rxdone,txdone,rxout);
+module uart(clk,start,rx,txin,tx,rxdone,txdone,rxout);
 input clk,start,rx;
 input [7:0] txin;
 output reg tx, rxdone, txdone;
