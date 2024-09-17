@@ -114,3 +114,7 @@ Day 54 - 13/9/24: Watch Dog Timer.
 Day 55 - 14/9/24: Ceasar Cipher.
 
 Day 56 - 15/9/24: Ceasar Cipher: Random Key.
+
+Day 57 - 16/9/24: Universal Asynchronous Receiver Transmitter (UART).
+
+Day 58 - 17/9/24: Serial Peripheral Interface (SPI).
