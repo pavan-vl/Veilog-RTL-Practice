@@ -118,3 +118,7 @@ Day 56 - 15/9/24: Ceasar Cipher: Random Key.
 Day 57 - 16/9/24: Universal Asynchronous Receiver Transmitter (UART).
 
 Day 58 - 17/9/24: Serial Peripheral Interface (SPI).
+
+Day 59 - 18/9/24: Vigenere Cipher.
+
+Day 60 - 19/9/24: VernamCipher.
