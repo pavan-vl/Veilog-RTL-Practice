@@ -123,4 +123,6 @@ Day 59 - 18/9/24: Vigenere Cipher.
 
 Day 60 - 19/9/24: VernamCipher.
 
-Day 61 - 20/9/24: Hamming Encoder.
+Day 61 - 20/9/24: Direct Mapped Cache.
+
+Day 62 - 21/9/24: Hamming Encoder.
