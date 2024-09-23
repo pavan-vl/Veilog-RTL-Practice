@@ -126,3 +126,5 @@ Day 60 - 19/9/24: VernamCipher.
 Day 61 - 20/9/24: Direct Mapped Cache.
 
 Day 62 - 21/9/24: Hamming Encoder.
+
+Day 63 - 22/9/24: Feistel Cipher.
