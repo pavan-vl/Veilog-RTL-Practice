@@ -130,3 +130,5 @@ Day 62 - 21/9/24: Hamming Encoder.
 Day 63 - 22/9/24: Feistel Cipher.
 
 Day 64 - 23/9/24: Instruction Decoder.
+
+Day 65 - 24/9/24: Load-Store Memory.
