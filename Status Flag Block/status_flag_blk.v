@@ -11,7 +11,7 @@ wire nor1_o,nor2_o;
 
 assign nor1_o= ~(rdata | nor_o);
 
-assign nor2_o= ( nor1_o | ( (~master_ready) & dff_out ) );
+assign nor2_o= ~( nor1_o | ( (~master_ready) & dff_out ) );
 
 assign sin= nor1_o;
 
