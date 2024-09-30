@@ -132,3 +132,15 @@ Day 63 - 22/9/24: Feistel Cipher.
 Day 64 - 23/9/24: Instruction Decoder.
 
 Day 65 - 24/9/24: Load-Store Memory.
+
+Day 66 - 25/9/24: Parallel Interface: 8-Bit.
+
+****** 26/9/24 : NA ******
+
+Day 67 - 27/9/24: Serial Interface: 8-Bit.
+
+Day 68 - 28/9/24: Status Flag Block.
+
+Day 69 - 29/9/24: Serializer.
+
+Day 70 - 30/9/24: Armstrong Number.
