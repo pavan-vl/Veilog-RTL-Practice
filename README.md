@@ -144,3 +144,23 @@ Day 68 - 28/9/24: Status Flag Block.
 Day 69 - 29/9/24: Serializer.
 
 Day 70 - 30/9/24: Armstrong Number.
+
+Day 71 - 1/10/24: Vending Machine.
+
+Day 72 - 2/10/24: Traffic Light System.
+
+Day 73 - 3/10/24: Temperature Control.
+
+Day 74 - 4/10/24: Elevator Control.
+
+Day 75 - 5/10/24: Irrigation System.
+
+Day 76 - 6/10/24: Digital Lock System.
+
+Day 77 - 7/10/24: ATM System.
+
+Day 78 - 8/10/24: Washing Machine.
+
+Day 79 - 9/10/24: GCD Calculator.
+
+Day 80 - 10/10/24: Reminder System.
