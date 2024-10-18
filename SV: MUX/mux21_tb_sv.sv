@@ -1,5 +1,5 @@
 //Desinged by Pavan V L
-module mux21_tb;
+module mux21_tb_sv;
 logic i0,i1,sel;
 logic o;
 
