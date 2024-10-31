@@ -164,3 +164,47 @@ Day 78 - 8/10/24: Washing Machine.
 Day 79 - 9/10/24: GCD Calculator.
 
 Day 80 - 10/10/24: Reminder System.
+
+
+
+Day 81 - 12/10/24: SV:Basic Gates.
+
+Day 82 - 13/10/24: SV:Half Adder.
+
+Day 83 - 14/7/24: SV:Full Adder. 
+
+Day 84 - 15/10/24: SV:4-bit Ripple Carry Adder.
+
+Day 85 - 16/10/24: SV:Full Subtractor.
+
+Day 86 - 17/10/24: SV:4-bit Adder and Subractor.
+
+Day 87 - 18/10/24: SV:Multiplexers.
+
+Day 88 - 19/10/24: SV:Demultiplexers.
+
+Day 89 - 20/10/24: SV:Multiplier.
+
+Day 90 - 21/10/24: SV:Encoders.
+
+Day 91 - 22/10/24: SV:Decoders.
+
+Day 92 - 23/10/24: Priority Encoder.
+
+Day 93 - 24/10/24: SV:D FlipFlop. 
+
+Day 94 - 25/10/24: SV:T FLipFlop. 
+
+Day 95 - 26/10/24: SV:JK FlipFlop.
+
+****** 27/10/24 : NA ******
+
+Day 96 - 28/10/24: SV:SR FlipFlop.
+
+****** 29/10/24 : NA ******
+
+Day 97,98 - 30/10/24: SV:Synchronous Counter, SV:Up Down Counter.
+
+Day 99 - 31/10/24: SV: BCD to 7-Segment Display.
+
+Day 100 - 1/11/24: SV: Barrel Shifter.
