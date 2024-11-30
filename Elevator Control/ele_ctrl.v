@@ -1,3 +1,4 @@
+//Designed by Pavan V L
 module ele_ctrl(clk,rst,req,curr_flr,moving);
 input clk,rst;             
 input [3:0] req;   
